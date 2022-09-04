@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif&family=Raleway&family=Source+Sans+Pro:wght@200&display=swap');
+
+body {
+    background-color: #b1989859;
+    font-weight: 300;
+}
+#container-ul{
+    list-style-type: none;
+}
+.background{
+    background-color: Transparent;
+    border:none;
+}
+.modal-pic{
+    height: 285px;
+}
+.author-pic{
+    width: 30px;
+    border-radius: 30px;
+    height: 30px;
+}
